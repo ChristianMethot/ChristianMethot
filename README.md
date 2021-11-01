@@ -1,6 +1,6 @@
 #### Bonjour fellow programmer! 
 
-I'm Christian, I hope the code I'm sharing here will help you having a happier coding moment :)
+I'm Christian, I hope this will help you having a happier coding session :)
 
 <!---
 
@@ -10,9 +10,7 @@ I'm Christian, I hope the code I'm sharing here will help you having a happier c
 ![More of:](image.jpg)
 
 
-```
-
-mermaid
+```mermaid
  
  Test <|-- OtherTest
  
