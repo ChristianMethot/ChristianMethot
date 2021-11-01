@@ -1,6 +1,6 @@
 #### Bonjour fellow programmer! 
 
-I'm Christian, I hope this will help you having a happier coding session :)
+I'm Christian, I hope this code will help you having a happier coding session :)
 
 <!---
 
