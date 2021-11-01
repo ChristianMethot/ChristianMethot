@@ -1,7 +1,7 @@
 - Bonjour 👋 I'm Christian Methot
 
 
-
+<!---
 ```
 
 mermaid
@@ -19,6 +19,8 @@ mermaid
 }
  
 ```
+
+--->
 
 <!---  - 👀 I’m interested in ...
   - 🌱 I’m currently learning ...
