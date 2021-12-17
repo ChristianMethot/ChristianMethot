@@ -1,32 +1,6 @@
 #### Bonjour fellow programmer! 
 
-I'm Christian, I hope the code I'm sharing will help you having a happier coding session :)
-
-<!---
-
-![Less of:](image.jpg)
-
-
-![More of:](image.jpg)
-
-
-```mermaid
- 
- Test <|-- OtherTest
- 
- class Test{
-    +String content
-    +BigDecimal notMyBankAccount
-}
-
- class OtherTest{
-    +String content
-    +boolean fun
-}
- 
-```
-
---->
+I'm Christian, I hope the code I'm sharing will be helpful and useful :)
 
 <!---  - 👀 I’m interested in ...
   - 🌱 I’m currently learning ...
