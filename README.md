@@ -1,5 +1,5 @@
 #### Christian Méthot, casual programmer. 
-#### My personal projects
+#### My personal projects.
 
 
 <!---  - 👀 I’m interested in ...
