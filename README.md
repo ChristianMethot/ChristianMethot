@@ -1,6 +1,4 @@
-#### Bonjour fellow programmer! 
-
-I'm Christian, I hope the code I'm sharing will be helpful and useful :)
+#### Christian Méthot, casual programmer. 
 
 <!---  - 👀 I’m interested in ...
   - 🌱 I’m currently learning ...
