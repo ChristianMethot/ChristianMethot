@@ -1,4 +1,6 @@
 #### Christian Méthot, casual programmer. 
+#### My personal projects
+
 
 <!---  - 👀 I’m interested in ...
   - 🌱 I’m currently learning ...
