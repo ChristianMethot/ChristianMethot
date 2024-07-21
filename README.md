@@ -1,5 +1,5 @@
-#### Christian Méthot, dilettantish programmer. 
-### CLI enthusiast, technological agnostic with a fondness for Java and Org Mode.  
+### Christian Méthot, dilettantish programmer. 
+#### CLI enthusiast, technological agnostic with a fondness for Java and Org Mode.  
 
 
 <!---  - 👀 I’m interested in ...
