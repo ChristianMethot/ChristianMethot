@@ -1,5 +1,5 @@
-#### Christian Méthot, casual programmer. 
-#### My personal projects.
+#### Christian Méthot, dilettantish programmer. 
+#### CLI enthusiast, technological agnostic with a fondness for Java  
 
 
 <!---  - 👀 I’m interested in ...
